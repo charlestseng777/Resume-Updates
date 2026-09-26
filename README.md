@@ -1,5 +1,7 @@
 # The Desk
 
+> Also in this repo: **[EM Macro Monitor](em-macro/README.md)**, an 11-country EM/frontier sovereign dashboard with a country drop-down, refreshed daily by `.github/workflows/em-macro.yml`.
+
 Five-panel cross-asset dashboard (Korea FX, US rates, gold & real yields, frontier, UK gilts).
 `fetch_data.py` -> `data/*.json` -> static `index.html`, refreshed by GitHub Actions, served by GitHub Pages.
 
