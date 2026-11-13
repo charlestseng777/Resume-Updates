@@ -1,58 +1,58 @@
 {
- "last_run": "2026-11-12T14:42:51+00:00",
+ "last_run": "2026-11-13T13:59:29+00:00",
  "demo": false,
  "all_ok": true,
  "panels": {
   "korea_fx": {
    "ok": true,
-   "updated": "2026-11-12T14:42:51+00:00",
+   "updated": "2026-11-13T13:59:29+00:00",
    "warnings": [
     "BoK base rate: BOK_API_KEY not set",
-    "KRX foreign net buy: KRX: page too small for real content (status 200, 377 chars, body=\"<!DOCTYPE html>\\n<html>\\n<head>\\n<title></title>\\n</head>\\n<body>\\n<script type='text/javascript'>\\nalert('\ub85c\uadf8\uc778 \ub610\ub294 \ud68c\uc6d0\uac00\uc785\uc774 \ud544\uc694\ud569\ub2c8\ub2e4.');\\nlocation.href='/contents/MDC/COMS/client/MDCCOMS001.cmd?locale=ko_KR&redirectURL=b2h0aEZNWThrQ2s4amxkQjNPS3pLdmxteXFTdGFHRElNWlh0c2pYbU4rRnRVSml4MXpWeWwrZUpBVUlJUmlERWl1TVZJdWZNd0NwZHRpQWdjdkFQTFk0eE56TWFobGZhYXVwWG8xYnVXZkk9';\\n</script>\\n</body>\\n</html>\\n\"); scripts found=[]; bld candidates from those scripts={}"
+    "KRX foreign net buy: KRX: page too small for real content (status 200, 377 chars, body=\"<!DOCTYPE html>\\n<html>\\n<head>\\n<title></title>\\n</head>\\n<body>\\n<script type='text/javascript'>\\nalert('\ub85c\uadf8\uc778 \ub610\ub294 \ud68c\uc6d0\uac00\uc785\uc774 \ud544\uc694\ud569\ub2c8\ub2e4.');\\nlocation.href='/contents/MDC/COMS/client/MDCCOMS001.cmd?locale=ko_KR&redirectURL=b2h0aEZNWThrQ2s4amxkQjNPS3pLdmxteXFTdGFHRElNWlh0c2pYbU4rRnRVSml4MXpWeWwrZUpBVUlJUmlERWl1TVZJdWZNd0NwZHRpQWdjdkFQTFM5TDVCVUhPaVJ4WW45eThoMzRJY3c9';\\n</script>\\n</body>\\n</html>\\n\"); scripts found=[]; bld candidates from those scripts={}"
    ]
   },
   "us_rates": {
    "ok": true,
-   "updated": "2026-11-12T14:42:51+00:00",
+   "updated": "2026-11-13T13:59:29+00:00",
    "warnings": []
   },
   "gold_real_yields": {
    "ok": true,
-   "updated": "2026-11-12T14:42:51+00:00",
+   "updated": "2026-11-13T13:59:29+00:00",
    "warnings": [
     "WGC demand: WGC report https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026 (quarter 2026Q3): matched only {} of ['jewellery_fabrication', 'investment', 'central_banks_and_other_institutions']; text near 'jewellery': 'he lack of a clear trend in the gold price, while jewellery demand fell 17% to 313t as gold prices remained high. Technology demand rose 3% to 85t, its highest level since Q4 2021, supported by AI-related manufacturing.\", \"datePublished\": \"2026-11-03T12:00:00+00:00\" }, { \"@type\": \"WebPage\", \"@id\": \"https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026\", \"breadcrumb\": { \"@type\": \"BreadcrumbList\", \"itemListElement\": [ '"
    ]
   },
   "frontier": {
    "ok": true,
-   "updated": "2026-11-12T14:42:51+00:00",
+   "updated": "2026-11-13T13:59:29+00:00",
    "warnings": []
   },
   "nok_oil": {
    "ok": true,
-   "updated": "2026-11-12T14:42:51+00:00",
+   "updated": "2026-11-13T13:59:29+00:00",
    "warnings": []
   },
   "uk_gilts": {
    "ok": true,
-   "updated": "2026-11-12T14:42:51+00:00",
+   "updated": "2026-11-13T13:59:29+00:00",
    "warnings": [
     "BoE 30Y gilt: 'years:' header row 3 in sheet '4. nominal spot curve' has no 30y column; maturities found: [0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5, 12.0, 12.5, 13.0, 13.5, 14.0, 14.5, 15.0, 15.5, 16.0, 16.5, 17.0, 17.5, 18.0, 18.5, 19.0, 19.5, 20.0, 20.5, 21.0, 21.5, 22.0, 22.5, 23.0, 23.5, 24.0, 24.5, 25.0]",
-    "DMO gilts in issue: unrecognised export format (status 200); scripts=[]; export-string candidates=[]; body '<head><title>ShieldSquare Block</title><script type=\"text/javascript\"> window.SSJSInternal = 18155; var __uzdbm_1 = \"d3d40ee7-be4a-4db3-a011-25524d6cff67\"; var __uzdbm_2 = \"M2Q2M2RlN2EtYmhiei00ZGQwLTl'; export-script snippets={}",
+    "DMO gilts in issue: unrecognised export format (status 200); scripts=[]; export-string candidates=[]; body '<head><title>ShieldSquare Block</title><script type=\"text/javascript\"> window.SSJSInternal = 18155; var __uzdbm_1 = \"a91de06b-4816-4ecc-ae53-dab95add89b7\"; var __uzdbm_2 = \"MDc3YjUzNjYtYmhiei00MDNkLTh'; export-script snippets={}",
     "ONS central_govt_interest: CDID not configured",
     "ONS net_social_benefits: CDID not configured"
    ]
   }
  },
  "talking_points": {
-  "korea_fx": "USD/KRW moved -0.2% since the last update to 1,333, away from the 1,420 target.",
-  "us_rates": "The US 10Y yield is unchanged 0bp to 4.88%; 2s10s sits at +32bp; Fed funds unchanged for 56 days.",
-  "gold_real_yields": "Gold fell 3.5% to $3,905 while the 10Y real yield unchanged 0bp to 2.66%.",
-  "frontier": "The frontier proxy fell 0.3% since the last update; 60-day correlation with UST 10Y changes is -0.65.",
-  "nok_oil": "NOK/EUR rose 0.2% while Brent rose 0.4% to $93.3; 60-day correlation is -0.08.",
-  "uk_gilts": "The 10Y gilt yield is up 5bp to 5.19%; Bank Rate 4.00%, 7 days since the last move."
+  "korea_fx": "USD/KRW moved +0.3% since the last update to 1,336, toward the 1,420 target.",
+  "us_rates": "The US 10Y yield is up 10bp to 4.98%; 2s10s sits at +25bp; Fed funds unchanged for 57 days.",
+  "gold_real_yields": "Gold fell 0.5% to $3,886 while the 10Y real yield rose 12bp to 2.78%.",
+  "frontier": "The frontier proxy fell 0.4% since the last update; 60-day correlation with UST 10Y changes is -0.65.",
+  "nok_oil": "NOK/EUR rose 0.3% while Brent rose 3.9% to $97.0; 60-day correlation is -0.09.",
+  "uk_gilts": "The 10Y gilt yield is up 1bp to 5.20%; Bank Rate 4.00%, 8 days since the last move."
  },
- "compared_with": "2026-11-11",
+ "compared_with": "2026-11-12",
  "positions": {
   "usdkrw_ndf": {
    "detail": {
@@ -64,11 +64,11 @@
     "notional": 1000000
    },
    "series": "usdkrw",
-   "current": 1332.6800537109375,
-   "pnl_pct": 8.09,
-   "pnl_usd": 88033.0,
+   "current": 1336.4100341796875,
+   "pnl_pct": 7.83,
+   "pnl_usd": 84996.0,
    "notional": 1000000.0,
-   "progress_to_target_pct": 391.1
+   "progress_to_target_pct": 378.6
   },
   "duration_call": {
    "detail": {
@@ -79,23 +79,6 @@
   }
  },
  "snapshots": {
-  "2026-10-02": {
-   "usdkrw": 1346.8499755859375,
-   "ust2": 4.88,
-   "ust10": 5.29,
-   "curve_2s10s": 41.000000000000014,
-   "ust30": 5.64,
-   "gold": 4208.7001953125,
-   "real10": 2.93,
-   "gold_real_corr60": -0.3168422801273706,
-   "emb": 90.26000213623047,
-   "corr60": -0.8658789011776084,
-   "nok_eur": 0.09230627299126706,
-   "oil_brent": 99.8499984741211,
-   "nok_oil_corr60": 0.31767427504505624,
-   "gilt10": 5.3714,
-   "bank_rate": 3.75
-  },
   "2026-10-05": {
    "usdkrw": 1343.0799560546875,
    "ust2": 4.78,
@@ -588,9 +571,26 @@
    "nok_oil_corr60": -0.08117858423425789,
    "gilt10": 5.1906,
    "bank_rate": 4.0
+  },
+  "2026-11-13": {
+   "usdkrw": 1336.4100341796875,
+   "ust2": 4.73,
+   "ust10": 4.98,
+   "curve_2s10s": 25.0,
+   "ust30": 5.35,
+   "gold": 3886.5,
+   "real10": 2.78,
+   "gold_real_corr60": -0.17051990233086659,
+   "emb": 91.33999633789062,
+   "corr60": -0.6549479782622913,
+   "nok_eur": 0.09473294113034181,
+   "oil_brent": 96.95999908447266,
+   "nok_oil_corr60": -0.09456128003658232,
+   "gilt10": 5.2044,
+   "bank_rate": 4.0
   }
  },
- "streak": 39,
- "last_success_date": "2026-11-12",
- "best_streak": 39
+ "streak": 40,
+ "last_success_date": "2026-11-13",
+ "best_streak": 40
 }
